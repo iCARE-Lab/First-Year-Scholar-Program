@@ -25,7 +25,7 @@
 | Date | Module | Topics Covered | Status | Launch in Google Colab |
 | :--- | :--- | :--- | :--- | :--- |
 | **Oct 14, 2026** | **Python I** | Variables, data types, basic operations, strings, and lists | ![Ready](https://img.shields.io/badge/Available-177345?style=flat-square) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iCARE-Lab/First-Year-Scholar-Program/blob/main/2026-2027/Exploring-AI-in-Healthcare/notebooks/FYSP_Python_Module_1_Colab_Beginner_Workbook.ipynb) |
-| **Oct 21, 2026** | **Python II** | Conditions, loops, functions, and working with data | ![Upcoming](https://img.shields.io/badge/Upcoming-64748B?style=flat-square) | *Link added Oct 21* |
+| **Oct 21, 2026** | **Python II** | Conditions, loops, functions, and working with data | ![Ready](https://img.shields.io/badge/Available-177345?style=flat-square) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iCARE-Lab/First-Year-Scholar-Program/blob/main/2026-2027/Exploring-AI-in-Healthcare/notebooks/FYSP_Python_Module_2_Colab_Beginner_Workbook.ipynb) |
 | **Oct 28, 2026** | **Python III** | NumPy, arrays, images, and simple visualization | ![Upcoming](https://img.shields.io/badge/Upcoming-64748B?style=flat-square) | *Link added Oct 28* |
 | **Nov 4, 2026** | **PyTorch Intro** | Tensors and the deep-learning workflow | ![Upcoming](https://img.shields.io/badge/Upcoming-64748B?style=flat-square) | *Link added Nov 4* |
 | **Nov 11, 2026** | **2D Segmentation I** | Introduction to 2D medical image segmentation | ![Upcoming](https://img.shields.io/badge/Upcoming-64748B?style=flat-square) | *Link added Nov 11* |
