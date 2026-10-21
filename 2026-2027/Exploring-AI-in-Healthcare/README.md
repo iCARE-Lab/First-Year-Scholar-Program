@@ -31,7 +31,7 @@ All coding exercises run directly in your browser using **Google Colab** (no ins
 | Date | Module | Topic | Status | Launch in Colab |
 | :--- | :--- | :--- | :--- | :--- |
 | **Oct 14, 2026** | **Python Module 1** | Variables, Data Types, Basic Operations, Strings, Lists | ![Available](https://img.shields.io/badge/Available-177345?style=flat-square) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iCARE-Lab/First-Year-Scholar-Program/blob/main/2026-2027/Exploring-AI-in-Healthcare/notebooks/FYSP_Python_Module_1_Colab_Beginner_Workbook.ipynb) |
-
+| **Oct 21, 2026** | **Python Module 2** | Conditions, Loops, Functions, Lists, Dictionaries | ![Available](https://img.shields.io/badge/Available-177345?style=flat-square) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iCARE-Lab/First-Year-Scholar-Program/blob/main/2026-2027/Exploring-AI-in-Healthcare/notebooks/FYSP_Python_Module_2_Colab_Beginner_Workbook.ipynb) |
 ---
 
 ## 🗓️ Project Roadmap
