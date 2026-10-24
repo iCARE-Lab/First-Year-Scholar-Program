@@ -41,12 +41,12 @@ Welcome to the **2026–2027 KSU iCARE Lab First-Year Scholars Program**! This r
 
 ## 🔬 Spring 2027: 3D Medical Image Segmentation & Symposium Research
 
-| Phase | Research Milestone | Focus Area | Status |
-| :--- | :--- | :--- | :--- |
-| **Phase 1 (Jan–Feb 2027)** | **3D CT Volumes & 3D Slicer** | Loading 3D NIfTI volumes `(Depth, Height, Width)`, voxel spacing, and anatomical planes | ![Upcoming](https://img.shields.io/badge/Upcoming-64748B) |
-| **Phase 2 (Feb–Mar 2027)** | **3D Segmentation Pipeline** | Training and running 3D U-Net / MONAI models on volumetric CT organ datasets | ![Upcoming](https://img.shields.io/badge/Upcoming-64748B) |
-| **Phase 3 (Mar–Apr 2027)** | **Quantitative & Visual Evaluation** | 3D Dice similarity, volumetric error analysis, and 3D surface rendering | ![Upcoming](https://img.shields.io/badge/Upcoming-64748B) |
-| **Phase 4 (Apr–May 2027)** | **Research Symposium Preparation** | Designing scientific posters, statistical summary charts, and final presentations | ![Upcoming](https://img.shields.io/badge/Upcoming-64748B) |
+| Phase | Research Milestone | Focus Area | Status | Launch in Google Colab |
+| :--- | :--- | :--- | :--- | :--- |
+| **Phase 1 (Jan–Feb 2027)** | **3D CT Volumes & 3D Slicer** | Loading 3D NIfTI volumes `(Depth, Height, Width)`, voxel spacing, and anatomical planes | ![Available](https://img.shields.io/badge/Available-177345) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iCARE-Lab/First-Year-Scholar-Program/blob/main/2026-2027/Exploring-AI-in-Healthcare/notebooks/KSU_iCARE_Spring2027_Phase1_3D_CT_Volumes_Voxel_Spacing_3D_Slicer.ipynb) |
+| **Phase 2 (Feb–Mar 2027)** | **3D Segmentation Pipeline** | 3D U-Net GPU training demo and comparing Original vs. AI-trained 3D segmentations | ![Available](https://img.shields.io/badge/Available-177345) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iCARE-Lab/First-Year-Scholar-Program/blob/main/2026-2027/Exploring-AI-in-Healthcare/notebooks/KSU_iCARE_Spring2027_Phase2_3D_Segmentation_Pipeline.ipynb) |
+| **Phase 3 (Mar–Apr 2027)** | **AnatoGraph & 3D Evaluation** | AnatoGraph-nnU-Net modules, pretrained fine-tuning, 3D Dice/HD95/clDice, and 3D rendering | ![Available](https://img.shields.io/badge/Available-177345) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iCARE-Lab/First-Year-Scholar-Program/blob/main/2026-2027/Exploring-AI-in-Healthcare/notebooks/KSU_iCARE_Spring2027_Phase3_AnatoGraph_Pretrained_and_Evaluation.ipynb) |
+| **Phase 4 (Apr–May 2027)** | **Research Symposium Preparation** | Designing 300-DPI scientific poster figures, statistical boxplots, and final presentations | ![Available](https://img.shields.io/badge/Available-177345) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iCARE-Lab/First-Year-Scholar-Program/blob/main/2026-2027/Exploring-AI-in-Healthcare/notebooks/KSU_iCARE_Spring2027_Phase4_Symposium_Poster_Figures.ipynb) |
 
 > [!TIP]
 > **No installation needed:** Everything runs in your browser through Google Colab. For basic Python modules, keep the default CPU runtime.
