@@ -15,7 +15,7 @@
 
 ## 🎯 Project Overview
 
-Welcome to the **2026–2027 KSU iCARE Lab First-Year Scholars Program**! This research track introduces first-year undergraduate scholars from all academic backgrounds to **Python programming**, **deep learning with PyTorch**, and **automated 2D & 3D medical image segmentation** (Chest X-Ray and CT scans).
+Welcome to the **2026–2027 KSU iCARE Lab First-Year Scholars Program**! This research track introduces first-year undergraduate scholars from all academic backgrounds to **Python programming**, **deep learning with PyTorch**, and **automated 2D & 3D medical image segmentation** (Chest X-Ray and 3D CT/CTA scans) using **AnatoGraph-nnU-Net**.
 
 > [!IMPORTANT]
 > **How to Launch the Interactive Workbooks**
@@ -43,10 +43,20 @@ Welcome to the **2026–2027 KSU iCARE Lab First-Year Scholars Program**! This r
 
 | Phase | Research Milestone | Focus Area | Status | Launch in Google Colab |
 | :--- | :--- | :--- | :--- | :--- |
-| **Phase 1 (Jan–Feb 2027)** | **3D CT Volumes & 3D Slicer** | Loading 3D NIfTI volumes `(Depth, Height, Width)`, voxel spacing, and anatomical planes | ![Available](https://img.shields.io/badge/Available-177345) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iCARE-Lab/First-Year-Scholar-Program/blob/main/2026-2027/Exploring-AI-in-Healthcare/notebooks/KSU_iCARE_Spring2027_Phase1_3D_CT_Volumes_Voxel_Spacing_3D_Slicer.ipynb) |
-| **Phase 2 (Feb–Mar 2027)** | **3D Segmentation Pipeline** | 3D U-Net GPU training demo and comparing Original vs. AI-trained 3D segmentations | ![Available](https://img.shields.io/badge/Available-177345) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iCARE-Lab/First-Year-Scholar-Program/blob/main/2026-2027/Exploring-AI-in-Healthcare/notebooks/KSU_iCARE_Spring2027_Phase2_3D_Segmentation_Pipeline.ipynb) |
+| **Phase 1 (Jan–Feb 2027)** | **3D CT Volumes & 3D Slicer** | Loading 3D NIfTI volumes `(Depth, Height, Width)`, voxel spacing, and anatomical planes | ![Available](https://img.shields.io/badge/Available-177345) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iCARE-Lab/First-Year-Scholar-Program/blob/main/2026-2027/Exploring-AI-in-Healthcare/notebooks/KSU_iCARE_Spring2027_3D_CT_Volumes_Voxel_Spacing_3D_Slicer.ipynb) |
+| **Phase 2 (Feb–Mar 2027)** | **3D Segmentation Pipeline** | 3D U-Net GPU training workflow and comparing Original vs. AI-trained 3D segmentations | ![Available](https://img.shields.io/badge/Available-177345) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iCARE-Lab/First-Year-Scholar-Program/blob/main/2026-2027/Exploring-AI-in-Healthcare/notebooks/KSU_iCARE_Spring2027_Phase2_3D_Segmentation_Pipeline.ipynb) |
 | **Phase 3 (Mar–Apr 2027)** | **AnatoGraph & 3D Evaluation** | AnatoGraph-nnU-Net modules, pretrained fine-tuning, 3D Dice/HD95/clDice, and 3D rendering | ![Available](https://img.shields.io/badge/Available-177345) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iCARE-Lab/First-Year-Scholar-Program/blob/main/2026-2027/Exploring-AI-in-Healthcare/notebooks/KSU_iCARE_Spring2027_Phase3_AnatoGraph_Pretrained_and_Evaluation.ipynb) |
 | **Phase 4 (Apr–May 2027)** | **Research Symposium Preparation** | Designing 300-DPI scientific poster figures, statistical boxplots, and final presentations | ![Available](https://img.shields.io/badge/Available-177345) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iCARE-Lab/First-Year-Scholar-Program/blob/main/2026-2027/Exploring-AI-in-Healthcare/notebooks/KSU_iCARE_Spring2027_Phase4_Symposium_Poster_Figures.ipynb) |
 
+---
+
+## 📚 Benchmark Datasets & Attribution
+
+The Spring 2027 3D segmentation modules utilize curated educational subsets from four open-access 3D CT/CTA benchmarks:
+1. **AortaSeg24:** 23-zone aortic and branch artery CTA benchmark (MICCAI 2024 Challenge).
+2. **SEGA / AVT:** Multi-center aortic vessel tree CTA dataset collection (*Data in Brief*, 2022).
+3. **ImageTBAD:** 3D CTA dataset for automatic segmentation of Type B aortic dissection (*Frontiers in Physiology*, 2021).
+4. **BTCV:** Multi-Atlas Labeling Beyond the Cranial Vault 13-organ abdominal CT benchmark (MICCAI 2015).
+
 > [!TIP]
-> **No installation needed:** Everything runs in your browser through Google Colab. For basic Python modules, keep the default CPU runtime.
+> **No installation needed:** Everything runs in your browser through Google Colab. For 3D medical imaging modules, switch to a free GPU (**Runtime → Change runtime type → T4 GPU**) for optimal performance.
