@@ -1,91 +1,52 @@
 <div align="center">
 
-# 🫀 Exploring AI in Healthcare
-### 3D Medical Image Segmentation and Analysis
+# 🩺 Exploring AI in Healthcare: 3D Medical Image Segmentation and Analysis
 
-[![KSU](https://img.shields.io/badge/Kennesaw_State_University-FDBB30?style=for-the-badge&labelColor=000000)](https://www.kennesaw.edu/)
-[![iCARE Lab](https://img.shields.io/badge/iCARE_Lab-0E7490?style=for-the-badge)](https://icare-lab.org/)
-![FYSP](https://img.shields.io/badge/First--Year_Scholars-2026–2027-1D4ED8?style=for-the-badge)
+**Kennesaw State University • iCARE Lab • First-Year Scholars Program (2026–2027)**
 
-**School of Data Science and Analytics | Intelligent Computing for Advanced Research in Healthcare (iCARE) Lab**  
-🌐 **Lab Website:** [icare-lab.org](https://icare-lab.org/)
+![Kennesaw State University](https://img.shields.io/badge/KENNESAW_STATE_UNIVERSITY-FDBB30?style=flat-square&logoColor=black)
+![iCARE Lab](https://img.shields.io/badge/iCARE_LAB-00796B?style=flat-square)
+![First-Year Scholars](https://img.shields.io/badge/FIRST--YEAR_SCHOLARS-37474F?style=flat-square)
+![2026-2027](https://img.shields.io/badge/2026--2027-1565C0?style=flat-square)
 
 </div>
 
 ---
 
-## 🎯 Main Research Question
-> **How accurately can AI identify and measure anatomical structures in 3D medical images?**
+## 🎯 Project Overview
 
-### Research Workflow
-`CT Scan` ➔ `AI Model` ➔ `Automated Segmentation` ➔ `3D Slicer Visualization` ➔ `Reference vs. AI Comparison` ➔ `Quantitative Results` ➔ `Research Findings`
+Welcome to the **2026–2027 KSU iCARE Lab First-Year Scholars Program**! This research track introduces first-year undergraduate scholars from all academic backgrounds to **Python programming**, **deep learning with PyTorch**, and **automated 2D & 3D medical image segmentation** (Chest X-Ray and CT scans).
+
+> [!IMPORTANT]
+> **How to Launch the Interactive Workbooks**
+> 1. Click the **Open in Colab** button next to any module in the schedule below.
+> 2. Sign in with your Google account.
+> 3. Save your own personal copy using **File → Save a copy in Drive**.
+> 4. Click any code cell and press **Shift + Enter** (or the **▶** button) to run it.
 
 ---
 
-## 🚀 Quick Access: Coding Notebooks
+## 💻 Fall 2026: Coding & Deep Learning Foundation
 
-All coding exercises run directly in your browser using **Google Colab** (no installation required). 
-
-* 📂 **[Open the `notebooks/` Folder](./notebooks)**
-
-| Date | Module | Topic | Status | Launch in Colab |
+| Date | Module | Topics Covered | Status | Launch in Google Colab |
 | :--- | :--- | :--- | :--- | :--- |
-| **Oct 14, 2026** | **Python Module 1** | Variables, Data Types, Basic Operations, Strings, Lists | ![Available](https://img.shields.io/badge/Available-177345?style=flat-square) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iCARE-Lab/First-Year-Scholar-Program/blob/main/2026-2027/Exploring-AI-in-Healthcare/notebooks/FYSP_Python_Module_1_Colab_Beginner_Workbook.ipynb) |
-| **Oct 21, 2026** | **Python Module 2** | Conditions, Loops, Functions, Lists, Dictionaries | ![Available](https://img.shields.io/badge/Available-177345?style=flat-square) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iCARE-Lab/First-Year-Scholar-Program/blob/main/2026-2027/Exploring-AI-in-Healthcare/notebooks/FYSP_Python_Module_2_Colab_Beginner_Workbook.ipynb) |
----
-
-## 🗓️ Project Roadmap
-
-### Fall 2026: Building the Foundation
-| Date | Topic |
-| :--- | :--- |
-| **Oct 7** | Welcome, research expectations, and project roadmap |
-| **Oct 14** | **Python I** — Variables, data types, lists, and basic operations |
-| **Oct 21** | **Python II** — Conditions, loops, functions, and working with data |
-| **Oct 28** | **Python III** — NumPy, arrays, images, and simple visualization |
-| **Nov 4** | **Introduction to PyTorch** — Tensors and the deep-learning workflow |
-| **Nov 11** | Introduction to 2D medical image segmentation |
-| **Nov 18** | Running and evaluating a simple 2D segmentation workflow |
-| **Dec 2** | Fall review, preliminary results, and preparation for Spring |
-
-### Spring 2027: 3D Medical Imaging Research & Symposium Preparation
-| Date | Topic |
-| :--- | :--- |
-| **Jan 13** | **CT Images and 3D Slicer** — CT slices, voxels, 3D volumes, medical image formats, basic anatomy, and viewing CT scans |
-| **Jan 20** | **AI-Based 3D Segmentation** — Understanding the 3D segmentation workflow and preparing the data |
-| **Jan 27** | **Running 3D Segmentation Models** — Generate AI segmentations and visualize results in 3D Slicer |
-| **Feb 3** | **Compare 3D Segmentation Models** — Compare outputs from different AI approaches |
-| **Feb 10** | **How Well Did the AI Perform?** — Segmentation metrics and quantitative evaluation |
-| **Feb 17** | **Error Analysis and Interpretation** — Identify successful and difficult cases and understand why models perform differently |
-| **Feb 24** | **Organize Research Results** — Finalize tables, figures, model comparisons, and 3D visualizations |
-| **Mar 3** | *No meeting — Spring Break* |
-| **Mar 10** | **Prepare Symposium Poster** — Finalize research question, methods, results, figures, conclusions, and poster draft |
-| **Mar 17** | **Spring Symposium Abstract Deadline** — Submit abstract and finalize presentation plan |
-| **Mar 24** | **Poster Practice and Questions** — Practice explaining the research and answering questions |
-| **Mar 31** | **Presentation Practice and Discussion** — Refine explanations, interpretation, and responses |
-| **Apr 7** | Final Poster Review and Practice |
-| **Apr 14** | Final Presentation Practice |
-| **Apr 21–23** | **Spring Symposium of Student Scholars — Present Research** |
+| **Oct 14, 2026** | **Python I** | Variables, data types, basic operations, strings, and lists | ![Available](https://img.shields.io/badge/Available-177345) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iCARE-Lab/First-Year-Scholar-Program/blob/main/2026-2027/Exploring-AI-in-Healthcare/notebooks/FYSP_Python_Module_1_Colab_Beginner_Workbook.ipynb) |
+| **Oct 21, 2026** | **Python II** | Conditions, loops, functions, and working with data | ![Available](https://img.shields.io/badge/Available-177345) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iCARE-Lab/First-Year-Scholar-Program/blob/main/2026-2027/Exploring-AI-in-Healthcare/notebooks/FYSP_Python_Module_2_Colab_Beginner_Workbook.ipynb) |
+| **Oct 28, 2026** | **Python III** | NumPy, arrays, images, and simple visualization | ![Available](https://img.shields.io/badge/Available-177345) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iCARE-Lab/First-Year-Scholar-Program/blob/main/2026-2027/Exploring-AI-in-Healthcare/notebooks/FYSP_Python_Module_3_Colab_Beginner_Workbook.ipynb) |
+| **Nov 4, 2026** | **PyTorch Intro** | Tensors and the deep-learning workflow | ![Available](https://img.shields.io/badge/Available-177345) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iCARE-Lab/First-Year-Scholar-Program/blob/main/2026-2027/Exploring-AI-in-Healthcare/notebooks/KSU_iCARE_PyTorch_Intro_2026_2027.ipynb) |
+| **Nov 11, 2026** | **2D Segmentation I** | Introduction to 2D medical image segmentation | ![Available](https://img.shields.io/badge/Available-177345) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iCARE-Lab/First-Year-Scholar-Program/blob/main/2026-2027/Exploring-AI-in-Healthcare/notebooks/KSU_iCARE_2D_UNet_Chest_XRay_Segmentation.ipynb) |
+| **Nov 18, 2026** | **2D Segmentation II** | Running and evaluating a simple 2D segmentation workflow | ![Available](https://img.shields.io/badge/Available-177345) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iCARE-Lab/First-Year-Scholar-Program/blob/main/2026-2027/Exploring-AI-in-Healthcare/notebooks/KSU_iCARE_2D_Segmentation_II_Evaluation.ipynb) |
 
 ---
 
-## 📌 Important Program Dates (2026–2027)
+## 🔬 Spring 2027: 3D Medical Image Segmentation & Symposium Research
 
-| Date | Event |
-| :--- | :--- |
-| **Oct 28, 2026** | NCUR 2027 funding/pre-approval abstract deadline — 11:59 PM (Campus Hub) |
-| **Nov 18–20, 2026** | Fall Symposium of Student Scholars — required attendance/reflection |
-| **Dec 13, 2026** | First-Year Scholars Mid-Year Survey due |
-| **Mar 10, 2027** | Spring Symposium oral-presentation abstract deadline — 11:59 PM (Campus Hub) |
-| **Mar 17, 2027** | Spring Symposium poster/visual/virtual abstract deadline — 11:59 PM (Campus Hub) |
-| **Apr 12–14, 2027** | NCUR 2027 — Grand Rapids, Michigan |
-| **Apr 21–23, 2027** | Spring Symposium of Student Scholars (Poster, Oral, & Virtual Presentations) |
-| **May 2, 2027** | First-Year Scholars Year-End Evaluation due (Campus Hub) |
+| Phase | Research Milestone | Focus Area | Status |
+| :--- | :--- | :--- | :--- |
+| **Phase 1 (Jan–Feb 2027)** | **3D CT Volumes & 3D Slicer** | Loading 3D NIfTI volumes `(Depth, Height, Width)`, voxel spacing, and anatomical planes | ![Upcoming](https://img.shields.io/badge/Upcoming-64748B) |
+| **Phase 2 (Feb–Mar 2027)** | **3D Segmentation Pipeline** | Training and running 3D U-Net / MONAI models on volumetric CT organ datasets | ![Upcoming](https://img.shields.io/badge/Upcoming-64748B) |
+| **Phase 3 (Mar–Apr 2027)** | **Quantitative & Visual Evaluation** | 3D Dice similarity, volumetric error analysis, and 3D surface rendering | ![Upcoming](https://img.shields.io/badge/Upcoming-64748B) |
+| **Phase 4 (Apr–May 2027)** | **Research Symposium Preparation** | Designing scientific posters, statistical summary charts, and final presentations | ![Upcoming](https://img.shields.io/badge/Upcoming-64748B) |
 
----
-
-> [!NOTE]
-> **Research Team Expectations**
-> * Dedicate **5–10 hours per week** to the project and attend weekly meetings.
-> * Keep your work organized, document what you do, and communicate early if you get stuck.
-> * Ask questions freely—our goal is exposure, hands-on experience, and growth.
+> [!TIP]
+> **No installation needed:** Everything runs in your browser through Google Colab. For basic Python modules, keep the default CPU runtime.
