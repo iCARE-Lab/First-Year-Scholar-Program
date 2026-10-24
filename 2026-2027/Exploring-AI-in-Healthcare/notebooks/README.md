@@ -1,15 +1,15 @@
 <div align="center">
 
 # 🧬 Interactive Teaching Notebooks
-### Exploring AI in Healthcare: 3D Medical Image Segmentation and Analysis
 
-![KSU](https://img.shields.io/badge/Kennesaw_State_University-FDBB30?style=for-the-badge&labelColor=000000)
-![iCARE Lab](https://img.shields.io/badge/iCARE_Lab-0E7490?style=for-the-badge&logo=googlecolab&logoColor=white)
-![Program](https://img.shields.io/badge/First--Year_Scholars-2026–2027-1D4ED8?style=for-the-badge)
+**Exploring AI in Healthcare: 3D Medical Image Segmentation and Analysis**
+
+![Kennesaw State University](https://img.shields.io/badge/KENNESAW_STATE_UNIVERSITY-FDBB30?style=flat-square&logoColor=black)
+![iCARE Lab](https://img.shields.io/badge/iCARE_LAB-00796B?style=flat-square)
+![First-Year Scholars](https://img.shields.io/badge/FIRST--YEAR_SCHOLARS-37474F?style=flat-square)
+![2026-2027](https://img.shields.io/badge/2026--2027-1565C0?style=flat-square)
 
 </div>
-
----
 
 > [!IMPORTANT]
 > **How to Use These Notebooks**
@@ -18,20 +18,16 @@
 > 3. Save your own working copy using **File → Save a copy in Drive**.
 > 4. Click any code cell and press **Shift + Enter** (or the **▶** button) to run it.
 
----
-
-## 💻 Fall 2026: Coding & Deep Learning Foundation
+### 💻 Fall 2026: Coding & Deep Learning Foundation
 
 | Date | Module | Topics Covered | Status | Launch in Google Colab |
 | :--- | :--- | :--- | :--- | :--- |
-| **Oct 14, 2026** | **Python I** | Variables, data types, basic operations, strings, and lists | ![Ready](https://img.shields.io/badge/Available-177345?style=flat-square) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iCARE-Lab/First-Year-Scholar-Program/blob/main/2026-2027/Exploring-AI-in-Healthcare/notebooks/FYSP_Python_Module_1_Colab_Beginner_Workbook.ipynb) |
-| **Oct 21, 2026** | **Python II** | Conditions, loops, functions, and working with data | ![Ready](https://img.shields.io/badge/Available-177345?style=flat-square) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iCARE-Lab/First-Year-Scholar-Program/blob/main/2026-2027/Exploring-AI-in-Healthcare/notebooks/FYSP_Python_Module_2_Colab_Beginner_Workbook.ipynb) |
-| **Oct 28, 2026** | **Python III** | NumPy, arrays, images, and simple visualization | ![Upcoming](https://img.shields.io/badge/Upcoming-64748B?style=flat-square) | *Link added Oct 28* |
-| **Nov 4, 2026** | **PyTorch Intro** | Tensors and the deep-learning workflow | ![Upcoming](https://img.shields.io/badge/Upcoming-64748B?style=flat-square) | *Link added Nov 4* |
-| **Nov 11, 2026** | **2D Segmentation I** | Introduction to 2D medical image segmentation | ![Upcoming](https://img.shields.io/badge/Upcoming-64748B?style=flat-square) | *Link added Nov 11* |
-| **Nov 18, 2026** | **2D Segmentation II** | Running and evaluating a simple 2D segmentation workflow | ![Upcoming](https://img.shields.io/badge/Upcoming-64748B?style=flat-square) | *Link added Nov 18* |
-
----
+| **Oct 14, 2026** | **Python I** | Variables, data types, basic operations, strings, and lists | ![Available](https://img.shields.io/badge/Available-177345) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iCARE-Lab/First-Year-Scholar-Program/blob/main/2026-2027/Exploring-AI-in-Healthcare/notebooks/FYSP_Python_Module_1_Colab_Beginner_Workbook.ipynb) |
+| **Oct 21, 2026** | **Python II** | Conditions, loops, functions, and working with data | ![Available](https://img.shields.io/badge/Available-177345) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iCARE-Lab/First-Year-Scholar-Program/blob/main/2026-2027/Exploring-AI-in-Healthcare/notebooks/FYSP_Python_Module_2_Colab_Beginner_Workbook.ipynb) |
+| **Oct 28, 2026** | **Python III** | NumPy, arrays, images, and simple visualization | ![Available](https://img.shields.io/badge/Available-177345) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iCARE-Lab/First-Year-Scholar-Program/blob/main/2026-2027/Exploring-AI-in-Healthcare/notebooks/FYSP_Python_Module_3_Colab_Beginner_Workbook.ipynb) |
+| **Nov 4, 2026** | **PyTorch Intro** | Tensors and the deep-learning workflow | ![Available](https://img.shields.io/badge/Available-177345) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iCARE-Lab/First-Year-Scholar-Program/blob/main/2026-2027/Exploring-AI-in-Healthcare/notebooks/KSU_iCARE_PyTorch_Intro_2026_2027.ipynb) |
+| **Nov 11, 2026** | **2D Segmentation I** | Introduction to 2D medical image segmentation | ![Available](https://img.shields.io/badge/Available-177345) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iCARE-Lab/First-Year-Scholar-Program/blob/main/2026-2027/Exploring-AI-in-Healthcare/notebooks/KSU_iCARE_2D_UNet_Chest_XRay_Segmentation.ipynb) |
+| **Nov 18, 2026** | **2D Segmentation II** | Running and evaluating a simple 2D segmentation workflow | ![Available](https://img.shields.io/badge/Available-177345) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iCARE-Lab/First-Year-Scholar-Program/blob/main/2026-2027/Exploring-AI-in-Healthcare/notebooks/KSU_iCARE_2D_Segmentation_II_Evaluation.ipynb) |
 
 > [!TIP]
-> **No installation needed:** Everything runs in your browser through Google Colab. For basic Python modules, keep the default **CPU** runtime.
+> **No installation needed:** Everything runs in your browser through Google Colab. For basic Python modules, keep the default CPU runtime. For **2D Segmentation I & II**, you can optionally switch to a free GPU (**Runtime → Change runtime type → T4 GPU**) for even faster U-Net training.
